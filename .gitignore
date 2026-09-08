@@ -1,0 +1,18 @@
+# Visual Studio workspace files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET build output
+[Bb]in/
+[Oo]bj/
+artifacts/
+TestResults/
+
+# Local databases and logs
+*.db
+*.db-shm
+*.db-wal
+*.log
